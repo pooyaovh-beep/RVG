@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-soetma on 2026-11-13T14:36:53Z
+# fly.toml app configuration file generated for rvg-9tkz8g on 2026-11-13T14:57:27Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-soetma'
-primary_region = 'ams'
+app = 'rvg-9tkz8g'
+primary_region = 'fra'
 
 [build]
 [http_service]
